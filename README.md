@@ -22,8 +22,7 @@ GoodTwo is designed to demonstrate how HTML, CSS, JavaScript, and GSAP can be us
   
 ## Usage
 
-1. **Open `index.html`** in a web browser to view the project.
-2. **GSAP Animations** are triggered on page load and during user interactions (such as scrolling or clicking). You can explore the animations by interacting with the webpage.
+   **GSAP Animations** are triggered on page load and during user interactions (such as scrolling or clicking). You can explore the animations by interacting with the webpage.
 
 ## Project Structure
 
