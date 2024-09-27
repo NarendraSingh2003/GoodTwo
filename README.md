@@ -34,10 +34,9 @@ goodtwo-project/
 ├── index.html         # Main HTML file
 ├── styles.css         # Main CSS file
 ├── app.js             # JavaScript for interactivity and animations
-└── assets/            # Folder for images, fonts, or other assets
 ```
 
 - **index.html**: Contains the structure of the webpage.
 - **styles.css**: Defines the styling and layout of the webpage.
 - **app.js**: Contains JavaScript logic, including GSAP animations.
-- **assets/**: Stores images and other static files used in the project.
+
