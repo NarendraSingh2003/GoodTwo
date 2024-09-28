@@ -2,13 +2,6 @@
 
 GoodTwo is an interactive web project developed using **HTML**, **CSS**, **JavaScript**, and **GSAP** (GreenSock Animation Platform) for animations. The project showcases modern web design techniques combined with smooth, high-performance animations.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-
 ## Introduction
 
 GoodTwo is designed to demonstrate how HTML, CSS, JavaScript, and GSAP can be used together to build dynamic and interactive web experiences. The project includes complex animations and transitions to create a smooth, engaging user interface.
@@ -24,19 +17,4 @@ GoodTwo is designed to demonstrate how HTML, CSS, JavaScript, and GSAP can be us
 
    **GSAP Animations** are triggered on page load and during user interactions (such as scrolling or clicking). You can explore the animations by interacting with the webpage.
 
-## Project Structure
-
-The project has a basic structure:
-
-```plaintext
-goodtwo-project/
-│
-├── index.html         # Main HTML file
-├── styles.css         # Main CSS file
-├── app.js             # JavaScript for interactivity and animations
-```
-
-- **index.html**: Contains the structure of the webpage.
-- **styles.css**: Defines the styling and layout of the webpage.
-- **app.js**: Contains JavaScript logic, including GSAP animations.
 
